@@ -1,0 +1,6 @@
+[submodule "akita-state"]
+	path = akita-state
+	url = https://github.com/CesarMartinez7/akita-state
+[submodule "prime-ng"]
+	path = prime-ng
+	url = https://github.com/CesarMartinez7/new-directivas-primeng
