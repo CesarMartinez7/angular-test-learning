@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 251,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "project\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.ts",
+              "RelativeToolTip": "project\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T18:43:50.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "project\\src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.config.ts",
+              "RelativeToolTip": "project\\src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T18:43:49.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "project\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "project\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-03T18:43:49.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "project\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.html",
+              "RelativeToolTip": "project\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-03T18:43:48.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "project\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\RED5G\\Desktop\\new-test-angular\\akitaa\\project\\src\\app\\app.component.css",
+              "RelativeToolTip": "project\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-03T18:43:46.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
